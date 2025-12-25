@@ -1,4 +1,4 @@
-## Lunar
+## Moonlight (Lunar fork)
 
 A native DLL mapping library that supports direct memory mapping
 
@@ -11,6 +11,7 @@ A native DLL mapping library that supports direct memory mapping
 - SxS dependency resolution
 - TLS callback execution
 - WOW64 and x64 support
+- Junk/polimorfic shellcode for signature evation
 
 ---
 
