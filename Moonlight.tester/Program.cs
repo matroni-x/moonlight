@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
-using Lunar; // Importamos la librería que compilaste
+using Lunar;
 
 namespace TestLoader
 {
@@ -13,14 +13,13 @@ namespace TestLoader
 
             // 1. CONFIGURACIÓN
             // Cambia esto por la ruta de una DLL de prueba (ej. una DLL simple de C++ que muestre un mensaje)
-            string rutaDllCheat = @"..\src\Lunar\bin\Debug\net8.0\Moonlight.dll";
-            string nombreProceso = "javaw"; // El proceso de Minecraft
+            string rutaDllCheat = @"C:\Users\matrox\source\repos\moonlight\x64\Debug\Dll.test.dll";
+            string nombreProceso = "notepad"; // El proceso de Minecraft
 
             // Verificamos que el archivo exista
             if (!File.Exists(rutaDllCheat))
             {
                 Console.WriteLine($"[Error] No encuentro la DLL en: {rutaDllCheat}");
-                Console.ReadKey();
                 return;
             }
 

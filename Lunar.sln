@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar", "src\Lunar\Lunar.csproj", "{3ED36B11-A13D-4408-95B9-054FFFFB26C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonlight", "src\Lunar\Moonlight.csproj", "{3ED36B11-A13D-4408-95B9-054FFFFB26C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunar.Tests", "test\Lunar.Tests\Lunar.Tests.csproj", "{7C429A14-850A-4BAA-82FB-FB0F8848CE17}"
 EndProject

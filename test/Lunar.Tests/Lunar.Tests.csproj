@@ -17,7 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\Lunar\Lunar.csproj" />
+      <ProjectReference Include="..\..\src\Lunar\Moonlight.csproj" />
     </ItemGroup>
 
 </Project>

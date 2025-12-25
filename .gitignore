@@ -71,3 +71,5 @@ _ReSharper*/
 *.tmp_proj
 *.vspscc
 *.vssscc
+/.vs
+/Dll.test
