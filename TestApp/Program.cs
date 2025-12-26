@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
-using Lunar; // Importamos la librería que compilaste
+using Lunar;
 
 namespace TestLoader
 {
